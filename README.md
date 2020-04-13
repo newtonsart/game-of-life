@@ -6,3 +6,7 @@ You must install numpy and matplotlib modules with:
 ```
 pip install numpy matplotlib
 ```
+## Usage:
+```
+python conway.py <world dimension>
+```
